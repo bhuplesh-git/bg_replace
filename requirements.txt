@@ -1,0 +1,14 @@
+torch>=2.1.0
+--extra-index-url https://download.pytorch.org/whl/cu118
+gradio==3.50.2
+opencv-python
+diffusers==0.21.4
+transformers==4.34.1
+xformers==0.0.22.post7
+accelerate
+safetensors
+timm
+scikit-image
+realesrgan
+basicsr>=1.4.2
+scipy
